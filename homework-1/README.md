@@ -9,7 +9,6 @@ Solution to Homework 1 of the AI Engineering Buildcamp. The project downloads fr
 | `get_books.ipynb`      | Downloads PDFs from a remote CSV into `books/`                           |
 | `convert_pdf2md.ipynb` | Converts PDFs to Markdown using `markitdown`, saves to `books_text/`   |
 | `rag.ipynb`            | Chunks documents, indexes with `minsearch`, and runs a full RAG pipeline |
-| `main.py`              | Standalone script entry point                                              |
 
 ## Setup
 
