@@ -1,4 +1,4 @@
-# AI Buildcamp: Homework 1
+# AI Buildcamp: Homework 
 
 Solution to Homework 1 of the AI Engineering Buildcamp. The project downloads free programming books by Allen Downey, extracts their text, and builds a RAG (Retrieval-Augmented Generation) pipeline on top of them.
 
