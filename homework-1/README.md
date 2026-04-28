@@ -18,9 +18,9 @@ uv add 'markitdown[pdf]' gitsource minsearch openai
 
 ## Questions Covered
 
-1. **Q1**: Line count of the extracted *Think Python* book
-2. **Q2**: Number of chunks produced with `size=100, step=50`
-3. **Q3**: Total documents indexed with `minsearch`
-4. **Q4**: Top search result for `"python function definition"`
-5. **Q5**: Input token count for a single RAG query
-6. **Q6**: Structured output using a Pydantic response model
+**Q1**: Line count of the extracted *Think Python* book
+**Q2**: Number of chunks produced with `size=100, step=50`
+**Q3**: Total documents indexed with `minsearch`
+**Q4**: Top search result for `"python function definition"`
+**Q5**: Input token count for a single RAG query
+**Q6**: Structured output using a Pydantic response model
